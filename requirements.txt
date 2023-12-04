@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+google-cloud-bigquery
+google-auth-oauthlib
+pandas-gbq
+google-cloud-logging==3.5.0
